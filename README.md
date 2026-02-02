@@ -25,11 +25,14 @@
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/argolozzz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/yan-argolo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-argolo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!-- GithubStats -->
-
-![YanArgolo GitHub stats](https://github-readme-stats.vercel.app/api?username=YanArgolo&show_icons=true&theme=gotham)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YanArgolo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YanArgolo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+<!-- ![YanArgolo GitHub stats](https://github-readme-stats.vercel.app/api?username=YanArgolo&show_icons=true&theme=gotham) -->
 
 <!-- Portfolio -->
 ## Portfolio:
