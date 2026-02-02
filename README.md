@@ -11,14 +11,14 @@
   - 🌱 I’m currently studying Computer Science at FEI <img width="30" height="40" alt="fei logo" src="https://github.com/user-attachments/assets/87845bbc-57af-482a-8e38-bb1abf55d82f" />
 
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with software engineering.
+  - 🔭 I'm looking for my first job opportunity. My dream is to one day work with software engineering.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 19 years old, currently living in Brazil. I have experience with SQL, Python, Java and JavaScript.
+  - 💬 I'm 19 years old, currently living in Brazil. I have experience with SQL, Python, Java and JavaScript.
 
   - ⚡ I enjoy reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving.
 </details>
